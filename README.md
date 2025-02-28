@@ -11,6 +11,7 @@
 - [revox](https://github.com/wxingheng/revox): 基于Cursor AI 生成的 一个强大的 React 组件生成和管理工具，让开发更高效、更规范
 - [jcommon](https://github.com/wxingheng/jcommon): JavaScript 常用纯函数工具库
 - [scene-based-AI](https://github.com/wxingheng/scene-based-AI): 基于场景的人工智能综合应用
+- [ant-design-x-pro](https://github.com/wxingheng): AI Chat UI
 - [更多项目](https://github.com/wxingheng?tab=repositories) 请访问我的 GitHub 仓库了解更多。
 
 ## 我的贡献
