@@ -28,4 +28,11 @@
 ![skills](https://skillicons.dev/icons?perline=14&i=html,css,javascript,typescript,d3,ai,dart,react,vue,angular,flutter,electron,nuxtjs,vite,webpack,babel,nodejs,express,python,java,bash,md,fastapi,nestjs,sqlite,mysql,git,github,docker,linux,ubuntu,postman,vscode,pycharm)
 
 
+
+
+<p align="center">
+ <img width="1000" src="https://github.com/wxingheng/wxingheng/blob/output/github-snake.svg" alt="snake"/>
+</p>
+
+
 ## pageviews:![](https://count.getloli.com/@wxingheng?name=wxingheng&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
