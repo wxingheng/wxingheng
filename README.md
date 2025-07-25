@@ -44,6 +44,10 @@
 
 ---
 
+![trophy](https://github-profile-trophy.vercel.app/?username=wxingheng)
+
+---
+
 ## 🐍 GitHub Activity Snake
 
 <p align="center">
