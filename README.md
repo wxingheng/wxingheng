@@ -1,4 +1,4 @@
-<h1 align="center">你好，我是 wxingheng 👋</h1>
+<h2 align="center">Hello, I’m wxingheng 👋</h1>
 
 <p align="center">
   🚀 专注于 Web 全栈、可视化与 AI 场景应用的开发者  
@@ -55,5 +55,5 @@
 ## 📈 访问统计
 
 <p align="center">
-  <img src="https://count.getloli.com/@wxingheng?name=wxingheng&theme=capoo-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="pageviews" />
+  <img src="https://count.getloli.com/@wxingheng?name=wxingheng&theme=random&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="pageviews" />
 </p>
